@@ -131,11 +131,10 @@ local q = {
     "Ghoul Dimension",
     "Fate Dimension",
     "Slime Dimension"
-    "Devil Dimension"
 }
 local r = {"Easy", "Hard", "Nightmare", "Infinite"}
 local s = {"Capsule Series 1", "Raid Capsule", "Gear 5 Fluffy Capsule", "Esper Capsule"}
-local t = { "Tengoku Raid", "Hirito Raid", "Titan Raid", "Esper Raid" ,"Demon Lord Raid","Yomiichi Raid", "Christmas Raid","Combat Titan Raid", "Infinity Nojo Raid", "Gear 5 Fluffy Raid", "Chainsaw Raid"}
+local t = { "Tengoku Raid", "Hirito Raid", "Titan Raid", "Esper Raid" ,"Demon Lord Raid","Yomiichi Raid", "Christmas Raid","Combat Titan Raid", "Infinity Nojo Raid", "Gear 5 Fluffy Raid"}
 local u = loadstring(game:HttpGet("https://www.klgrth.io/paste/gs77p/raw"))()
 local v = u:MakeWindow({Name = "☀️ Sun Hub ☀️", HidePremium = true})
 local w = v:MakeTab({Name = "Main", PremiumOnly = false})
